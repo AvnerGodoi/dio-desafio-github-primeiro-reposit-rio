@@ -1,7 +1,4 @@
-# dio-desafio git/github
-
-Desafio de projeto git/github
-
+# Desafio DIO - Projeto Git/Github
 
 ## Links Uteis
 

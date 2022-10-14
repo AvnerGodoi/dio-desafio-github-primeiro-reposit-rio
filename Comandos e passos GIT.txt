@@ -1,0 +1,9 @@
+git init - iniciar git, criar arquivo git
+git add - adicionar arquivo que esta espera
+git staus - verificar status dos arquivos
+git commit -m - commit , salvar arquivos
+git clone - clonar repósitorio a partis do git hub, formato de link
+cd - comando para entrar em pastas 
+cd .. - comando para subir um nivel de pastas
+git add * - comando para adicionar todos arquivos que não estão no repositório
+ls - listar pastas e arquivos
